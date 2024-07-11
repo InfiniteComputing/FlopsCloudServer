@@ -6,9 +6,9 @@ package server
 import (
 	"context"
 
-	"mall/service/user/rpc/internal/logic"
-	"mall/service/user/rpc/internal/svc"
-	"mall/service/user/rpc/types/user"
+	"gzfcserver/service/user/rpc/internal/logic"
+	"gzfcserver/service/user/rpc/internal/svc"
+	"gzfcserver/service/user/rpc/types/user"
 )
 
 type UserServer struct {

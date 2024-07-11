@@ -3,9 +3,9 @@ package logic
 import (
 	"context"
 
-	"mall/service/user/api/internal/svc"
-	"mall/service/user/api/internal/types"
-	"mall/service/user/rpc/types/user"
+	"gzfcserver/service/user/api/internal/svc"
+	"gzfcserver/service/user/api/internal/types"
+	"gzfcserver/service/user/rpc/types/user"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

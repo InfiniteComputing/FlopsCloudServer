@@ -19,6 +19,7 @@
 #### 构建项目
 
   go mod tidy
+  
   go mod download
   
 > go mod vendor  如果需要把依赖安装到当前目录
